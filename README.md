@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Gonzalo Novoa</h1>
 <h3 align="center">A mechanical engineer who likes to code</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chalonov" alt="chalonov" /></a> </p>
-
 - 🔭 I’m currently working on [Public Health research as a data data scientist doing data visualization in R.](https://github.com/chalonov/map-creation)
 
 - 👯 I’m looking to collaborate on **data science, machine learning, math modeling**
