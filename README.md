@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gonzalo Novoa</h1>
 <h3 align="center">A mechanical engineer who likes to code</h3>
 
-- 🔭 I’m currently working on Public Health research as a data scientist doing [data visualization and web apps in R.](https://github.com/chalonov/map-creation)
+- 🔭 I’m currently working on Public Health research as a data scientist creating [data visualization and web apps in R.](https://github.com/chalonov/map-creation)
 
 - 👯 I’m looking to collaborate on **data science, machine learning, math modeling**
 
