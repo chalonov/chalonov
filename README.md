@@ -17,5 +17,4 @@
   <a href="https://spring.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/> </a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chalonov&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chalonov&layout=compact&langs_count=8)
