@@ -2,7 +2,7 @@
 <h1 align="center">Gonzalo Novoa</h1>
 <h3 align="center">Mechanical engineer - Software engineer</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chalonov&layout=compact&langs_count=20)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chalonov&layout=compact&langs_count=6)
 
 <h3 align="left">Languages:</h3>
 <p align="left">
