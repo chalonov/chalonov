@@ -17,6 +17,7 @@
 <p align="left">
   <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/> </a>
   <a href="https://spring.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/> </a>
+  <a href="https://shiny.posit.co/" target="_blank" rel="noreferrer"> <img src="https://posit.gallerycdn.vsassets.io/extensions/posit/shiny/1.1.0/1724859895953/Microsoft.VisualStudio.Services.Icons.Default" alt="shiny" width="40" height="40"/> </a>
 </p>
 
 
