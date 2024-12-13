@@ -20,4 +20,9 @@
   <a href="https://shiny.posit.co/" target="_blank" rel="noreferrer"> <img src="https://posit.gallerycdn.vsassets.io/extensions/posit/shiny/1.1.0/1724859895953/Microsoft.VisualStudio.Services.Icons.Default" alt="shiny" width="40" height="40"/> </a>
 </p>
 
+<h3 align="left">Microcontrollers:</h3>
+<p align="left">
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/> </a>
+  <a href="https://www.espressif.com/en" target="_blank" rel="noreferrer"> <img src="https://www.espressif.com/sites/all/themes/espressif/images/logo-guidelines/primary-vertical-logo.png" alt="espressif" width="40" height="40"/> </a>
+</p>
 
