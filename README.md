@@ -19,11 +19,13 @@
   <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" alt="django" width="40" height="40"/> </a>
   <a href="https://spring.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/> </a>
   <a href="https://shiny.posit.co/" target="_blank" rel="noreferrer"> <img src="https://posit.gallerycdn.vsassets.io/extensions/posit/shiny/1.1.0/1724859895953/Microsoft.VisualStudio.Services.Icons.Default" alt="shiny" width="40" height="40"/> </a>
+  <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/streamlit/streamlit-plain-wordmark.svg" alt="streamlit" width="40" height="40"/> </a>
 </p>
 
 <h3 align="left">Microcontrollers:</h3>
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/> </a>
   <a href="https://www.espressif.com/en" target="_blank" rel="noreferrer"> <img src="https://www.espressif.com/sites/all/themes/espressif/images/logo-guidelines/primary-vertical-logo.png" alt="espressif" width="40" height="40"/> </a>
+  <a href="https://www.st.com/en/microcontrollers-microprocessors.html" target="_blank" rel="noreferrer"> <img src="https://wiki.stmicroelectronics.cn/stm32mpu/nsfr_img_auth.php/2/2f/STM32_logo.png" alt="stm32" width="40" height="40"/> </a>
 </p>
 
