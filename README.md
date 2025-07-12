@@ -2,7 +2,7 @@
 <h1 align="center">Gonzalo Novoa</h1>
 <h3 align="center">Software engineer - Mechanical engineer</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chalonov&layout=compact&langs_count=7)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chalonov&layout=compact&langs_count=10)
 
 <h3 align="left">Languages:</h3>
 <p align="left">
@@ -27,6 +27,5 @@
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" alt="arduino" width="40" height="40"/> </a>
   <a href="https://www.espressif.com/en" target="_blank" rel="noreferrer"> <img src="https://www.espressif.com/sites/all/themes/espressif/images/logo-guidelines/primary-vertical-logo.png" alt="espressif" width="40" height="40"/> </a>
-  <a href="https://www.st.com/en/microcontrollers-microprocessors.html" target="_blank" rel="noreferrer"> <img src="https://wiki.stmicroelectronics.cn/stm32mpu/nsfr_img_auth.php/2/2f/STM32_logo.png" alt="stm32" width="40" height="40"/> </a>
 </p>
 
